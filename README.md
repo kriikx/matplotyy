@@ -20,7 +20,7 @@ matplotyy/
 │   ├── Box Plot.ipynb
 │   ├── Subplots.ipynb
 │   └── Customization.ipynb
-
+|
 ├   |-- Seaborn
 │   ├── Line Plot.ipynb
 │   ├── Bar Plot.ipynb
