@@ -21,7 +21,7 @@ matplotyy/
 │   ├── Subplots.ipynb
 │   └── Customization.ipynb
 |
-├   |-- Seaborn
+├   |--> SEABORN
 │   ├── Line Plot.ipynb
 │   ├── Bar Plot.ipynb
 │   ├── Scatter Plot.ipynb
